@@ -62,7 +62,7 @@ const TrendingApps = ({ apps, loading, error }) => {
             <div className="flex items-center justify-between mt-1 text-sm p-4">
               <div className="flex items-center text-green-500 font-semibold">
                 <BsDownload className="w-3 h-3 mr-1" />
-                <span className="text-xs">9M</span>
+                <span className="text-xs">{app?.downloads/ 1000000}M</span>
               </div>
 
               <div className="flex items-center text-orange-400 font-semibold">
