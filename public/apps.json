@@ -1,0 +1,362 @@
+[
+  {
+    "image": "https://i.ibb.co.com/hxL3SmMH/images.jpg",
+    "title": "Productivity Pro",
+    "companyName": "Tech Innovations",
+    "id": 1,
+    "description": "A powerful app to boost your productivity. Productivity Pro helps you organize tasks efficiently, set daily goals, track progress, and manage your time wisely. With intuitive interfaces and detailed insights, you can prioritize your work, avoid distractions, and accomplish more each day. It is designed for students, professionals, and entrepreneurs to streamline their workflow and maintain focus. The app also provides actionable recommendations and analytics to continuously improve your productivity habits over time.",
+    "size": 50,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 450 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/chWPrM0f/images-1.jpg",
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech",
+    "id": 2,
+    "description": "Track your workouts and stay fit with Fitness Tracker. The app helps monitor steps, calories, heart rate, and distance during exercise. You can create personalized fitness plans, set goals, and receive progress updates. It includes weekly summaries, charts, and analytics to improve performance. Whether running, cycling, or gym workouts, Fitness Tracker guides you to maintain a healthy lifestyle and reach your fitness targets consistently. Motivational tips and challenges keep you engaged and dedicated to your health journey.",
+    "size": 60,
+    "reviews": 1500,
+    "ratingAvg": 4.7,
+    "downloads": 750000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/PGN0Svbf/download.jpg",
+    "title": "Photo Editor",
+    "companyName": "Creative Labs",
+    "id": 3,
+    "description": "Edit and enhance your photos with Photo Editor. It provides tools for cropping, rotating, adjusting brightness, contrast, saturation, and adding filters. Advanced features include layers, effects, and text overlays to create professional-quality images. The app supports social media sharing and personal projects, offering intuitive controls for beginners and advanced options for professionals. Photo Editor ensures every photo looks polished and visually stunning, making it easy to capture and edit memories while expressing creativity in photography.",
+    "size": 40,
+    "reviews": 800,
+    "ratingAvg": 4.3,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/F4TM34HJ/download-1.jpg",
+    "title": "Language Learner",
+    "companyName": "EduTech",
+    "id": 4,
+    "description": "Learn new languages with Language Learner. This app offers interactive lessons, practice exercises, and speaking activities. It helps improve vocabulary, grammar, pronunciation, and listening skills. Lessons are tailored for beginners to advanced learners, and the app tracks progress, providing feedback and suggestions. Users can set goals, complete challenges, and practice daily to enhance fluency. Language Learner makes learning engaging and effective through gamification, rewards, and real-world examples to help users confidently communicate in new languages.",
+    "size": 70,
+    "reviews": 2000,
+    "ratingAvg": 4.8,
+    "downloads": 1000000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/SXrSLVPj/download.jpg",
+    "title": "Weather Forecast",
+    "companyName": "SkyTech",
+    "id": 5,
+    "description": "Get accurate weather updates in real-time with Weather Forecast. The app provides hourly, daily, and weekly forecasts with temperature, precipitation, and wind information. Users receive alerts for severe weather, customizable notifications, and interactive maps. It helps plan activities safely, whether for travel, outdoor sports, or daily routines. Weather Forecast combines reliable data sources with an easy-to-use interface, allowing you to make informed decisions and stay prepared for changing conditions. It ensures you never miss important weather alerts.",
+    "size": 30,
+    "reviews": 1000,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 340 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/svcbbfBt/download-1.jpg",
+    "title": "Music Player",
+    "companyName": "AudioTech",
+    "id": 6,
+    "description": "Listen to your favorite music anytime with Music Player. Stream songs, create playlists, and enjoy high-quality audio. The app supports offline mode, allowing music access without internet. Users can organize tracks, search by artist or album, and explore new genres. Equalizer and sound customization features enhance the listening experience. Music Player also offers curated playlists, recommendations, and seamless integration with social media. It is designed to provide an immersive audio experience, making it perfect for music lovers who want convenience and variety in one app.",
+    "size": 50,
+    "reviews": 1300,
+    "ratingAvg": 4.4,
+    "downloads": 550000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 250 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 530 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/LXxTcyRH/download-3.jpg",
+    "title": "Task Manager",
+    "companyName": "Productivity Inc.",
+    "id": 7,
+    "description": "Organize and manage daily tasks efficiently with Task Manager. It allows creating tasks, setting deadlines, prioritizing activities, and tracking progress. Users can view daily, weekly, and monthly schedules, get reminders, and monitor completed tasks. The app also offers analytics and productivity reports to help improve time management. Task Manager is suitable for personal, professional, and educational use. Its intuitive interface and customizable settings ensure tasks are always organized, enabling users to stay focused, achieve goals, and reduce stress effectively.",
+    "size": 60,
+    "reviews": 1100,
+    "ratingAvg": 4.2,
+    "downloads": 450000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 360 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TBxDm2TB/download.jpg",
+    "title": "News Reader",
+    "companyName": "MediaTech",
+    "id": 8,
+    "description": "Stay updated with the latest news articles with News Reader. The app provides access to local and global news, covering categories like politics, technology, health, and entertainment. Users can bookmark articles, share with friends, and receive notifications for breaking news. With personalized feeds, reading preferences, and offline mode, the app ensures that you never miss important updates. News Reader offers a seamless and engaging experience for staying informed and up-to-date with reliable and curated news content, enhancing your knowledge and awareness.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.1,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/Dfjk5NWt/download.png",
+    "title": "Recipe Finder",
+    "companyName": "FoodTech",
+    "id": 9,
+    "description": "Discover new recipes and cooking tips with Recipe Finder. The app offers a vast collection of recipes from various cuisines, with step-by-step instructions and ingredient lists. Users can search by dietary preferences, cook time, or ingredients available. It provides nutritional information, cooking videos, and tips for perfect results. Recipe Finder allows saving favorite recipes, creating shopping lists, and sharing with friends. It is ideal for home cooks, food enthusiasts, and anyone looking to explore new culinary ideas and enhance cooking skills.",
+    "size": 55,
+    "reviews": 950,
+    "ratingAvg": 4.5,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/B5rMCC5y/download-1.jpg",
+    "title": "Travel Guide",
+    "companyName": "TourTech",
+    "id": 10,
+    "description": "Plan your trips with detailed travel guides using Travel Guide. The app provides information about destinations, attractions, accommodations, restaurants, and local transportation. Users can create itineraries, get recommendations, and access maps and offline resources. Travel Guide also offers tips on safety, budget planning, and cultural insights. It is perfect for solo travelers, families, and groups seeking comprehensive travel planning assistance. The app ensures a smooth and enjoyable travel experience by keeping all essential information organized and easily accessible.",
+    "size": 65,
+    "reviews": 1200,
+    "ratingAvg": 4.3,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 470 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/5gh6nbQ8/download-3.jpg",
+    "title": "Budget Tracker",
+    "companyName": "FinanceTech",
+    "id": 11,
+    "description": "Manage your finances and track expenses with Budget Tracker. The app allows creating budgets, monitoring spending, categorizing transactions, and setting financial goals. Users receive notifications for overspending, summaries, and charts for insights. Budget Tracker helps identify trends, optimize savings, and plan for future expenses. It supports multiple accounts and secure synchronization. Ideal for individuals and families, the app provides tools to maintain financial discipline, reduce debt, and achieve financial stability through organized tracking and reporting.",
+    "size": 45,
+    "reviews": 800,
+    "ratingAvg": 4.0,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 240 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/WWPdRPZf/download-4.jpg",
+    "title": "Meditation App",
+    "companyName": "WellnessTech",
+    "id": 12,
+    "description": "Relax and meditate with guided sessions using Meditation App. The app provides mindfulness exercises, breathing techniques, and relaxation music. Users can follow meditation plans, track progress, and reduce stress and anxiety. It also offers tips for sleep, focus, and mental wellness. Meditation App is suitable for beginners and advanced practitioners, enhancing mental clarity, emotional stability, and overall well-being. Regular use improves concentration, reduces tension, and promotes a calm lifestyle, making it an essential companion for daily mindfulness practice.",
+    "size": 50,
+    "reviews": 1300,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 680 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MD44GWNb/download-2.jpg",
+    "title": "Flashlight App",
+    "companyName": "UtilityTech",
+    "id": 13,
+    "description": "Turn your phone into a powerful flashlight with Flashlight App. It provides adjustable brightness, strobe modes, and emergency signals. The app is optimized for low battery usage while providing maximum illumination. Users can quickly access it from the notification panel or widgets. Flashlight App ensures safety and convenience for outdoor activities, emergencies, or daily use in dark environments. Its intuitive interface allows effortless operation, making it a reliable tool for lighting needs anytime and anywhere.",
+    "size": 30,
+    "reviews": 700,
+    "ratingAvg": 3.9,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 150 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/hR6k77xN/download.jpg",
+    "title": "Timer App",
+    "companyName": "Productivity Lab",
+    "id": 14,
+    "description": "Set timers and reminders for tasks using Timer App. The app supports multiple timers, countdowns, and alarms. Users can schedule tasks, manage time efficiently, and receive notifications for deadlines. Timer App enhances productivity, prevents procrastination, and helps maintain focus on important activities. It also provides statistics and history to review task completion patterns. With an intuitive interface and customizable settings, Timer App is an essential tool for personal, academic, and professional time management.",
+    "size": 25,
+    "reviews": 600,
+    "ratingAvg": 4.2,
+    "downloads": 200000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/wrwwSMyf/download-1.jpg",
+    "title": "Voice Recorder",
+    "companyName": "AudioLab",
+    "id": 15,
+    "description": "Record high-quality audio easily with Voice Recorder. The app supports multiple formats, background recording, and easy file management. Users can create notes, save interviews, lectures, and memos efficiently. Playback, trimming, and sharing options enhance usability. Voice Recorder is designed for students, professionals, journalists, and anyone needing reliable audio capture. It provides clear sound, organization features, and convenience, making audio recording and management simple and effective for everyday use.",
+    "size": 35,
+    "reviews": 750,
+    "ratingAvg": 4.4,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 330 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/h12mJbT6/download-3.jpg",
+    "title": "Calculator Plus",
+    "companyName": "MathSoft",
+    "id": 16,
+    "description": "Advanced calculator for daily calculations with Calculator Plus. It supports scientific, statistical, and basic arithmetic operations. Users can solve equations, calculate percentages, and convert units efficiently. The app includes history, memory functions, and customizable layouts. Calculator Plus is suitable for students, professionals, and anyone needing quick, accurate calculations. With an intuitive interface and versatile features, it enhances mathematical productivity and makes complex computations easy to perform on mobile devices.",
+    "size": 20,
+    "reviews": 500,
+    "ratingAvg": 4.0,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 150 },
+      { "name": "5 star", "count": 100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/21DkC6H8/download-4.jpg",
+    "title": "QR Scanner",
+    "companyName": "ScanTech",
+    "id": 17,
+    "description": "Scan QR codes quickly and safely with QR Scanner. The app supports all types of QR codes, including URLs, contacts, and Wi-Fi credentials. Users can scan, save, and share scanned data instantly. QR Scanner ensures privacy and security while offering a fast and efficient scanning experience. It also includes a history log, flashlight support, and customizable settings. Perfect for personal and professional use, the app simplifies digital interactions and access to online information through seamless scanning technology.",
+    "size": 15,
+    "reviews": 650,
+    "ratingAvg": 4.3,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 100 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/qXyjnTV/download-5.jpg",
+    "title": "Scanner Pro",
+    "companyName": "DocTech",
+    "id": 18,
+    "description": "Scan and save documents easily with Scanner Pro. The app allows users to scan receipts, notes, contracts, and images with high quality. It includes cropping, enhancing, and organizing features. Users can save documents as PDFs or images and share them securely. Scanner Pro supports cloud backup and fast scanning to improve productivity. Ideal for students, professionals, and business users, it ensures that all important documents are digitized and accessible anytime, making paper management efficient and convenient.",
+    "size": 40,
+    "reviews": 700,
+    "ratingAvg": 4.5,
+    "downloads": 300000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/s9M5SkGB/maxresdefault.jpg",
+    "title": "Expense Tracker",
+    "companyName": "FinancePro",
+    "id": 19,
+    "description": "Track your expenses and budget wisely with Expense Tracker. The app allows categorization of spending, creating budgets, and monitoring cash flow. Users can receive alerts for overspending, view analytics, and export reports. Expense Tracker helps individuals and families manage finances effectively, identify patterns, and save money. It is secure, easy-to-use, and provides actionable insights to improve financial habits. The app ensures better planning and control over personal and household expenses, leading to financial stability and informed decision-making.",
+    "size": 45,
+    "reviews": 800,
+    "ratingAvg": 4.4,
+    "downloads": 350000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 310 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/kL9spSj/download.jpg",
+    "title": "Calendar Plus",
+    "companyName": "Productivity Tools",
+    "id": 20,
+    "description": "Organize your schedule and events easily with Calendar Plus. The app allows creating, editing, and managing events, reminders, and appointments. Users can view daily, weekly, and monthly calendars, set notifications, and sync with other devices. Calendar Plus enhances time management, reduces missed deadlines, and helps maintain work-life balance. The app also supports sharing schedules, recurring events, and task integration. It is ideal for professionals, students, and families to plan efficiently and stay on top of daily commitments.",
+    "size": 50,
+    "reviews": 900,
+    "ratingAvg": 4.6,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 150 },
+      { "name": "4 star", "count": 250 },
+      { "name": "5 star", "count": 430 }
+    ]
+  }
+]
